@@ -2,6 +2,10 @@
 
 A modern Next.js application showcasing advanced React features and UI components.
 
+## Live Demo
+
+The application is deployed and available at: [https://advanced-react-features.vercel.app/](https://advanced-react-features.vercel.app/)
+
 ## Tech Stack
 
 - **Framework**: Next.js 15.2.4
