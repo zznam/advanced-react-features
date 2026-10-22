@@ -8,7 +8,7 @@ The application is deployed and available at: [https://advanced-react-features.v
 
 ## Tech Stack
 
-- **Framework**: Next.js 15.2.4
+- **Framework**: Next.js 15.5.28
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 - **UI Components**: Radix UI
